@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">9AM Decision - e-learning example - Mateusz Dąbrowski</langstring>
+          <langstring xml:lang="x-none">9AM Decision -learning example - Mateusz Dąbrowski</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="9AM_Decision_-_e-learning_example_-_Mateusz_Dąbrowski_ORG">
-    <organization identifier="9AM_Decision_-_e-learning_example_-_Mateusz_Dąbrowski_ORG">
-      <title>9AM Decision - e-learning example - Mateusz Dąbrowski</title>
+  <organizations default="9AM_Decision_-learning_example_-_Mateusz_Dąbrowski_ORG">
+    <organization identifier="9AM_Decision_-learning_example_-_Mateusz_Dąbrowski_ORG">
+      <title>9AM Decision -learning example - Mateusz Dąbrowski</title>
       <item identifier="Portfolio_-_feedback_module_SCO" isvisible="true" identifierref="__68kosA65Rf4_RES">
-        <title>9AM Decision - e-learning example - Mateusz Dąbrowski</title>
+        <title>9AM Decision -learning example - Mateusz Dąbrowski</title>
       </item>
     </organization>
   </organizations>
